@@ -24,16 +24,14 @@
 		}
 	],
 	"require-dev": {
-		"jetbrains/phpstorm-attributes": "^1.0",
 		"phpstan/extension-installer": "^1.4",
 		"phpstan/phpstan": "^2.0",
 		"phpstan/phpstan-strict-rules": "^2.0",
-		"phpunit/phpunit": "^9",
-		"spysystem/code-helper": "~2.0"
+		"spysystem/code-helper": "~2.0.10"
 	},
 	"require": {
-		"php": "~8.1.0 || ~8.5.0",
-		"monolog/monolog": "^3.2.0",
-		"spysystem/package-centralized-logger-data": "~1.0.0"
+		"php": "~8.5.0",
+		"monolog/monolog": "~3.11",
+		"spysystem/package-centralized-logger-data": "~1.1.0"
 	}
 }
