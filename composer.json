@@ -28,13 +28,13 @@
 		"phpstan/extension-installer": "^1.4",
 		"phpstan/phpstan": "^2.0",
 		"phpstan/phpstan-strict-rules": "^2.0",
-		"spysystem/code-helper": "~2.0",
+		"spysystem/code-helper": "~2.0.10",
 		"spysystem/package-data": "dev-je_123328_v1_1_require_cleanup as 1.1.0",
 		"spysystem/package-error-handling": "dev-je_123328_v1_2_require_cleanup as 1.2.0"
 	},
 	"require": {
 		"php": "~8.5.0",
-		"monolog/monolog": "~3.8",
+		"monolog/monolog": "~3.11",
 		"spysystem/package-centralized-logger-data": "dev-je_123328_v1_1_require_cleanup as 1.1.0"
 	}
 }
